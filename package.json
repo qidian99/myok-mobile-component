@@ -1,0 +1,32 @@
+{
+  "name": "myok_component",
+  "version": "1.0.0",
+  "description": "Components used in My Ok mobile project",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@phabricator.isafe.org:2222/source/myokmc.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Dian Qi",
+  "license": "ISC",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.63.0"
+  },
+  "peerDependencies": {
+    "react": "16.13.1",
+    "react-native": "0.63.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "prop-types": "^15.7.2"
+  }
+}
