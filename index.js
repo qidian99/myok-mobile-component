@@ -1,4 +1,3 @@
-import ProgressSteps from './src/ProgressSteps/ProgressSteps';
-import ProgressStep from './src/ProgressSteps/ProgressStep';
+import Example from './src/Example';
 
-export { ProgressSteps, ProgressStep };
+export { Example };

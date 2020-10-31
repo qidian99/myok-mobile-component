@@ -1,5 +1,5 @@
 {
-  "name": "myok_component",
+  "name": "myok-component",
   "version": "1.0.0",
   "description": "Components used in My Ok mobile project",
   "main": "index.js",
